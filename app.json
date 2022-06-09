@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile-crud",
-    "slug": "mobile-crud",
+    "name": "crud-mobile",
+    "slug": "crud-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
