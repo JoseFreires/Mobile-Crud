@@ -20,11 +20,19 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#sobre)
    * [Tabela de Conteúdos](#tabela-de-conteúdos)
+   * [Imagens da Aplicação](#imagens-da-aplicação)
    * [Como usar](#como-usar)
       * [Pré Requisitos](#pré-requisitos)
       * [Iniciando Aplicação](#iniciando-a-aplicação)
    * [Tecnologias](#tecnologias)
 <!--te-->
+
+## Imagens da Aplicação
+
+
+![Tela-1](https://user-images.githubusercontent.com/88195769/172744324-10de207a-a287-4c43-973d-c3cbad565837.PNG)
+![Tela-2](https://user-images.githubusercontent.com/88195769/172744419-abc746c5-d769-46a0-b6fe-5cd5f67364ab.PNG)
+
 
 ## Como usar
 
